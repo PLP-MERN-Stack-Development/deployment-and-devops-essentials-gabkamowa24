@@ -2,6 +2,12 @@
 
 This document helps ensure all assignment requirements are met before submission.
 
+Quick Deployment Links
+
+- **Frontend URL**: [https://health-app-final-project-dyqo.vercel.app/](https://health-app-final-project-dyqo.vercel.app/)
+- **Backend API URL**: [https://healthapp-backend-cauz.onrender.com/api](https://healthapp-backend-cauz.onrender.com/api)
+- **Health Check**: [https://healthapp-backend-cauz.onrender.com/health](https://healthapp-backend-cauz.onrender.com/health)
+
 ## ✅ Task 1: Preparing the Application for Deployment
 
 ### React Application Optimization
